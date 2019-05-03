@@ -1,0 +1,28 @@
+body{
+	margin: 0;
+}
+.page-wrapper {
+	background-image: url(fond.svg);
+	background-repeat: no-repeat;
+	margin: 0;
+	padding-top: 55%;
+	position: relative;
+}
+.page-wrapper * * {
+	position: absolute;
+	font-size: 0;
+	/* display: none; */
+
+}
+.summary {
+	display: block;
+	border: 5px solid #000;
+	position: absolute;
+	left:8%;
+	bottom: 5%;
+	width: 7%;
+	height: 27%;
+	font-size: 0;
+	background: linear-gradient(135deg, white, blue);
+
+}
