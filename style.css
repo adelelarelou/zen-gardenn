@@ -18,11 +18,121 @@ body{
 	display: block;
 	border: 5px solid #000;
 	position: absolute;
-	left:8%;
+	left:5.5%;
 	bottom: 5%;
-	width: 7%;
-	height: 27%;
+	width: 6%;
+	height: 24%;
 	font-size: 0;
 	background: linear-gradient(135deg, white, blue);
+	opacity:55;
+
+
+
+
+}
+.preamble {
+	display: block;
+	border: 5px solid #000;
+	position: absolute;
+	left:14%;
+	bottom: 18%;
+	width: 5.5%;
+	height: 11%;
+	font-size: 0;
+	background: linear-gradient(135deg, white, blue);
+
+}
+
+
+.participation {
+	display: block;
+	border: 5px solid #000;
+	position: absolute;
+	left:27.8%;
+	bottom: 35.8%;
+	width: 3.6%;
+	height: 7%;
+	font-size: 0;
+	background: linear-gradient(135deg, white, blue);
+	opacity:55;
+
+
+
+
+}
+
+.benefits {
+	display: block;
+	border: 5px solid #000;
+	position: absolute;
+	left:37%;
+	bottom: 35.8%;
+	width: 3.6%;
+	height: 7%;
+	font-size: 0;
+	background: linear-gradient(135deg, white, blue);
+	opacity:55;
+
+
+
+
+}
+
+.requirements {
+	display: block;
+	border: 5px solid #000;
+	position: absolute;
+	left:42.49%;
+	bottom: 27.3%;
+	width: 3.6%;
+	height: 15.5%;
+	font-size: 0;
+	background: linear-gradient(135deg, white, blue);
+	opacity:55;
+
+
+
+
+}
+footer{
+	display: block;
+	border: 5px solid #000;
+	position: absolute;
+	left:23.3%;
+	bottom:3%;
+	width: 6.3%;
+	height: 18%;
+	font-size: 0;
+	background: linear-gradient(135deg, white, blue);
+	opacity:55;
+
+}
+
+.explanation{
+	display: block;
+	border-radius: 50%;
+	border: 5px solid #000;
+	position: absolute;
+	left:33.5%;
+	bottom:55.5%;
+	width: 6.5%;
+	height: 12%;
+	font-size: 0;
+	background: linear-gradient(135deg, white, blue);
+	opacity:55;
+
+}
+
+.design-archives{
+	display: block;
+	border: 5px solid #000;
+	position: absolute;
+	left:33.5%;
+	bottom:77%;
+	width: 6.5%;
+	height: 55%;
+	font-size: 0;
+	background: linear-gradient(135deg, white, blue);
+	opacity:55;
 
 }
